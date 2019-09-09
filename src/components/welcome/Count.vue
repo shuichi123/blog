@@ -37,7 +37,7 @@ export default {
     }
   },
   mounted () {
-    $script(['/static/js/count.js', ], () => {
+    $script(['static/js/count.js', ], () => {
       console.log('count.js已加载')
     })
     console.log(111)
