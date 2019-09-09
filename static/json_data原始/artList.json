@@ -1,0 +1,22 @@
+{
+  "2019090510001": {
+    "title": "专题一",
+    "tags": ["标签1", "标签2", "标签3",],
+    "type": "study",
+    "secType": "js",
+    "writer": "吹口琴的喵~",
+    "abstract": "简介简介简介",
+    "createTime": "2019-09-04",
+    "updateTime": "2019-09-07",
+    "articles": [
+      {"belongTo": "article", "title": "文章1", "createTime": "2019-09-04", "updateTime": "2019-09-04", "tags": ["标签1", "标签2", "标签3",], "type": "study", "secType": "js", "writer": "吹口琴的喵~", "abstract": "简介简介简介", "id":"2019090520001"},
+      {"belongTo": "article", "title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": "", "id":""},
+      {"belongTo": "article", "title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": "", "id":""},
+      {"belongTo": "article", "title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": "", "id":""},
+      {"belongTo": "article", "title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": "", "id":""},
+      {"belongTo": "article", "title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": "", "id":""},
+      {"belongTo": "article", "title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": "", "id":""},
+      {"belongTo": "article", "title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": "", "id":""},
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "front",
+  "navlist": {
+    "study": ["js", "html", "css", "python", "markdown"],
+    "hobby": ["harm", "game", "cat"],
+    "demo": [],
+    "about": []
+  },
+  "sidelist": {
+  },
+  "pages": {
+    "study": {
+      "js": [
+        {"belongTo": "article", "title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": "", "id":""},
+        {"belongTo": "artList", "title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": "", "id":""},
+        {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""},
+        {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""},
+        {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""},
+        {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""},
+        {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""}
+      ],
+      "html": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "css": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "python": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "markdown": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "hobby": {
+      "harm": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "game": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "cat": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "demo": {
+    },
+    "about": {
+    }
+  }
+}
