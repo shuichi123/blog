@@ -1,12 +1,13 @@
 {
   "name": "front",
   "navlist": {
-    "study": ["js", "html", "css", "python", "markdown"],
-    "hobby": ["harm", "game", "cat"],
+    "study": ['js', 'html', 'css', 'python', 'markdown'],
+    "hobby": ['harm', 'game', 'cat'],
     "demo": [],
-    "about": []
+    "about": [],
   },
   "sidelist": {
+    
   },
   "pages": {
     "study": {
@@ -17,7 +18,7 @@
         {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""},
         {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""},
         {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""},
-        {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""}
+        {"title": "", "updateTime": "", "tags": "", "type": "", "secType": "", "writer": "", "abstract": ""},
       ],
       "html": [
         {},
@@ -26,7 +27,7 @@
         {},
         {},
         {},
-        {}
+        {},
       ],
       "css": [
         {},
@@ -35,7 +36,7 @@
         {},
         {},
         {},
-        {}
+        {},
       ],
       "python": [
         {},
@@ -44,7 +45,7 @@
         {},
         {},
         {},
-        {}
+        {},
       ],
       "markdown": [
         {},
@@ -53,8 +54,8 @@
         {},
         {},
         {},
-        {}
-      ]
+        {},
+      ],
     },
     "hobby": {
       "harm": [
@@ -64,7 +65,7 @@
         {},
         {},
         {},
-        {}
+        {},
       ],
       "game": [
         {},
@@ -73,7 +74,7 @@
         {},
         {},
         {},
-        {}
+        {},
       ],
       "cat": [
         {},
@@ -82,12 +83,12 @@
         {},
         {},
         {},
-        {}
-      ]
+        {},
+      ],
     },
     "demo": {
     },
     "about": {
-    }
-  }
+    },
+  },
 }
